@@ -1,1 +1,2 @@
+nginx
 jenkins/jenkins:lts-jdk17
