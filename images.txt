@@ -1,2 +1,5 @@
 nginx
 jenkins/jenkins:lts-jdk17
+node:20
+minio/minio:RELEASE.2024-04-06T05-26-02Z
+mongo:7.0
